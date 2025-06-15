@@ -1,17 +1,19 @@
 header{
     font-family: roboto;
+    background-color: #1f2937;
 }
 main{
     font-size: 48px;
     font-weight: 900;
     color:#f9faf8;
 }
-header footer{
-background-color: #1f2937
-}
 link{
     font-size: 18px;
-    ;
-
+    color: #e5e7eb;
 }
+footer{
+background-color: #1f2937;
+text-align: center;
+}
+
 
